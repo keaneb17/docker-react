@@ -13,7 +13,7 @@ function App() {
 		  Bye There !
         </p>
 		<p>Thanks Sean</p>
-		<p>Another Change Made Here<p>
+		<p>Another Change Made Here</p>
         <a
           className="App-link"
           href="https://reactjs.org"
